@@ -1,1 +1,8 @@
-
+<report>
+  <name>Не открывается каталог при переходе из корзины</name>
+  <date>11.05.2022</date>
+  <tester>Шарафутдинова Ольга</tester>
+  <version>10.03</version>
+  <severity>Major</severity>
+  <priority>High</priority>
+ </report>
