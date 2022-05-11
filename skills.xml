@@ -1,0 +1,17 @@
+<skills>
+	<myskill>
+		<name>SQL</name>
+		<level>medium</level>
+		<knowledge>selects, joins</knowledge>
+	</myskill>
+	<myskill>
+		<name>JS, Python, C++</name>
+		<level>basics+</level>
+		<knowledge>structures, oop a little</knowledge>
+	</myskill>
+	<myskill>
+		<name>GIT</name>
+		<level>basics+</level>
+		<knowledge>add, commit, push, merge</knowledge>
+	</myskill>
+<skills[D[D[D[D[D[D/skills>
